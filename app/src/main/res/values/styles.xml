@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:buttonStyle">@style/buttonStyle</item>
+        <item name="android:editTextStyle">@style/editTextStyle</item>
+        <item name="android:textViewStyle">@style/textViewStyle</item>
+    </style>
+    <style name ="editTextStyle" parent = "Widget.AppCompat.EditText">
+        <item name="android:textSize">26sp</item>
+    </style>
+    <style name ="textViewStyle">
+        <item name="android:textSize">26sp</item>
+    </style>
+    <style name = "buttonStyle" parent="Widget.AppCompat.Button.Borderless.Colored">
+
+    </style>
+</resources>

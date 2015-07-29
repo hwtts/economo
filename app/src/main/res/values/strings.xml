@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Econom</string>
+    <string name="Settings">Настройки</string>
+    <string name="setproduct">Выбрать тип товара</string>
+    <string name="needsum">Стоимость товара</string>
+    <string name="requiredmoney">Деньги в наличии</string>
+    <string name="everymouthpay">Ежемесячный платеж</string>
+    <string name="rent">Стоимость аренды</string>
+    <string name="noupdates">Обновлений не производилось</string>
+    <string name="setbank">Установить данные о банке</string>
+    <string name="updatedatabase">Обновить базу данных</string>
+    <string name="doalgorithm">Произвести расчет</string>
+</resources>
